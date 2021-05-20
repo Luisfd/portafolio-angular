@@ -1,0 +1,21 @@
+{
+  "equipo" : [ {
+    "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+    "nombre" : "Luink Shin",
+    "subtitulo" : "Programador",
+    "twitter" : "@xLuink",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-udemy-65350.appspot.com/o/team-1.jpg?alt=media&token=c7be3c5f-423c-4876-aa70-073b338b4ecd"
+  }, {
+    "frase" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+    "nombre" : "Alyssa Melano",
+    "subtitulo" : "Diseñadora",
+    "twitter" : "@alyssa",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-udemy-65350.appspot.com/o/team-2.jpg?alt=media&token=fbc1c418-fa76-4abe-8e4e-e12d6d57c13c"
+  }, {
+    "frase" : "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "nombre" : "Aitor Tilla",
+    "subtitulo" : "Snorlax Profesional",
+    "twitter" : "@aitor",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-udemy-65350.appspot.com/o/team-3.jpg?alt=media&token=328f5503-c3cb-4b35-9657-8d6dccfaf77f"
+  } ]
+}
